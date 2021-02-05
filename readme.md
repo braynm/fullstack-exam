@@ -27,3 +27,6 @@ Clone this github repo to your local computer
 - Read the `readme.md` in /frontend
 
 After you finish the exam, create a github repository and send us the link.
+
+### Unit Tests
+- It would be ideal if you can add unit/integration test using mocha or something similar.
